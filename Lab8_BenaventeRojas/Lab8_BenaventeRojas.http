@@ -1,0 +1,6 @@
+@Lab8_BenaventeRojas_HostAddress = http://localhost:5070
+
+GET {{Lab8_BenaventeRojas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
